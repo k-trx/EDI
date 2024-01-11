@@ -8,7 +8,6 @@ gif = loadImage('assets/KathrynGIF.gif');
 
 function setup(){
 createCanvas(windowWidth, windowHeight);
-fill('magenta');
 strokeWeight(1);
 
 
@@ -16,7 +15,6 @@ strokeWeight(1);
 
 
 function draw(){
-background('cyan');
 var num  = 50;
 var sideLen = windowWidth/num;
 
