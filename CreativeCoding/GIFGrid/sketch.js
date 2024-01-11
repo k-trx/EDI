@@ -16,19 +16,21 @@ strokeWeight(1);
 
 function draw(){
 
+var num = 10; 
+var sideLen = windowWidth/num;
 
-for (var y = 0; y<600; y+=60){
+for (var y = 0; y < windowHeight; y+=sideLen){
   
-  for(var x = 0; x<600; x+=60){// loop to create a row of squares in the x direction
+  for(var x = 0; x< windowWidth; x+=sideLen){// loop to create a row of squares in the x direction
  
  
- image(gif, x, y, 60, 60);
+ image(gif, x, y, sideLen, sideLen);
   
 }
 }
 }
 
 function windowResized(){
-resizeCanvas(600, 600)
+resizeCanvas(windowWidth, windowHeight)
 
 }
