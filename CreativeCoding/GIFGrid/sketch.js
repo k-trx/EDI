@@ -15,7 +15,7 @@ strokeWeight(1);
 
 
 function draw(){
-var num  = 50;
+var num  = 10;//number of rows
 var sideLen = windowWidth/num;
 
 for (var y = 0; y < windowHeight; y += sideLen){
