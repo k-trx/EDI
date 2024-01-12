@@ -15,7 +15,7 @@ strokeWeight(1);
 
 
 function draw(){
-
+background('cyan');
 var num = 10; 
 var sideLen = windowWidth/num;
 
