@@ -16,6 +16,8 @@ img {
 
 h1{
   color: black;
+  display: inline;
+  background: yellow;
      position: absolute;
      left: 50%;
      transform: translateX(-50%) translateY(-50%);
