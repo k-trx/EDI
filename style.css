@@ -27,6 +27,8 @@ h1{
 
 p{
     position: absolute;
+    display: inline;
+    background: yellow;
     font-size: 0.875em;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
