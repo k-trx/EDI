@@ -10,3 +10,7 @@ Projects for Engineering and Design I 2023-2024
 
 [Creative Coding (in progress)](https://k-trx.github.io/EDI/CreativeCoding/CreativeCodingReflection.html)
 
+[Designing my own GIF](https://k-trx.github.io/EDI/CreativeCoding/GIFGrid/index.html)
+
+
+
