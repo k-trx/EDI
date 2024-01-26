@@ -31,6 +31,6 @@ for (var y = 0; y < windowHeight*2; y+=sideLen){
 }
 
 function windowResized(){
-resizeCanvas(windowWidth * 2, windowHeight * 2)
+resizeCanvas(windowWidth, windowHeight * 2)
 
 }
