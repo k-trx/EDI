@@ -7,7 +7,7 @@ gif = loadImage('assets/KathrynGIF.gif');
 
 
 function setup(){
-createCanvas(windowWidth, windowHeight);
+createCanvas(windowWidth * 2, windowHeight *2 );
 strokeWeight(1);
 
 
@@ -31,6 +31,6 @@ for (var y = 0; y < windowHeight; y+=sideLen){
 }
 
 function windowResized(){
-resizeCanvas(windowWidth, windowHeight)
+resizeCanvas(windowWidth * 2 , windowHeight * 2)
 
 }
