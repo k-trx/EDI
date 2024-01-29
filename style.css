@@ -55,9 +55,7 @@ td {
         content: '';
 
         display: block;
-        /* padding-bottom: calc(50% - 0.5em); */
         padding-bottom: 25px;
-        /* padding-bottom: calc(50% - 1.0em); */
     }
 }
 
