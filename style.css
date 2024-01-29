@@ -55,7 +55,11 @@ td {
         content: '';
 
         display: block;
+<<<<<<< HEAD
         padding-bottom: 10px;
+=======
+        padding-bottom: 25px;
+>>>>>>> 7952e150b3a929de51cc74105749589c33c22154
     }
 }
 
